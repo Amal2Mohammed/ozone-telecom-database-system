@@ -71,21 +71,3 @@ The system uses primary keys, foreign keys, and relationships between customers,
 <img width="1281" height="606" alt="image" src="https://github.com/user-attachments/assets/ba33e8d0-0565-4410-a1f7-9406ae167b22" />
 
 
-## Repository Structure
-
-```text
-telecom-database-management-system/
-│
-├── README.md
-├── docs/
-│   └── Telecom_Project_Report.pdf
-│
-├── diagrams/
-│   └── er_diagram.png
-│
-└── screenshots/
-    ├── login.png
-    ├── customer_management.png
-    ├── employee_management.png
-    ├── invoice_generation.png
-    └── reports_analytics.png
