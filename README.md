@@ -70,4 +70,8 @@ The system uses primary keys, foreign keys, and relationships between customers,
 ### Reports and Analytics
 <img width="1281" height="606" alt="image" src="https://github.com/user-attachments/assets/ba33e8d0-0565-4410-a1f7-9406ae167b22" />
 
+### Categories
+<img width="1152" height="548" alt="image" src="https://github.com/user-attachments/assets/286eacbe-5143-47b5-a5f2-f7139b5463f5" />
+
+
 
