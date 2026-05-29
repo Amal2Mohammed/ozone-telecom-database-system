@@ -47,7 +47,8 @@ The system uses primary keys, foreign keys, and relationships between customers,
 ![ER Diagram](diagrams/er_diagram.png)
 
 ### Login Page
-![Login Page](screenshots/login.png)
+<img width="1345" height="601" alt="image" src="https://github.com/user-attachments/assets/9a8f9047-1717-4cac-a609-06a26b4dcca0" />
+
 
 ### Customer Management
 ![Customer Management](screenshots/customer_management.png)
