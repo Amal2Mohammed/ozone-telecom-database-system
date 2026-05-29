@@ -1,36 +1,81 @@
-# Ozone Telecom Database System
+# Ozone Telecom Database Management System
 
-A telecom company database management system developed using Oracle SQL and Oracle APEX.
+A telecom database management system designed for managing customers, employees, telecom services, subscriptions, invoices, and transaction records.
 
-## Features
+## Overview
 
-- Customer Management
-- Employee Management
-- Service Management
-- Service Subscriptions
-- Invoice Generation
-- Transaction Tracking
-- Reports and Analytics
+This project models and implements a relational database system for a telecom company in Kuwait. The system supports customer management, service management, employee administration, subscriptions, invoice generation, and reporting.
 
-## Technologies
+The project was implemented using Oracle SQL and Oracle APEX.
+
+## Key Features
+
+- Customer registration and management
+- Employee management
+- Telecom service catalog
+- Service subscription tracking
+- Invoice generation
+- Transaction history
+- Reports and analytics dashboards
+- ER-based relational database design
+
+## Database Design
+
+Main entities include:
+
+- Customer
+- Employee
+- Services
+- Category
+- Subscribed Services
+- Invoice
+
+The system uses primary keys, foreign keys, and relationships between customers, services, employees, subscriptions, and invoices.
+
+## Technologies Used
 
 - Oracle SQL
 - Oracle APEX
+- Relational Database Design
 - ER Modeling
-- Database Design
+- SQL Queries
+- HTML / APEX UI Components
 
-## Project Highlights
+## System Screenshots
 
-- Designed a relational database for a telecom company.
-- Implemented customer, employee, service, subscription, and invoice modules.
-- Developed forms, reports, and charts using Oracle APEX.
-- Created SQL queries and relationships using primary and foreign keys.
+### ER Diagram
+![ER Diagram](diagrams/er_diagram.png)
 
-## Screenshots
+### Login Page
+![Login Page](screenshots/login.png)
 
-(Add screenshots here)
+### Customer Management
+![Customer Management](screenshots/customer_management.png)
 
-## Contributors
+### Employee Management
+![Employee Management](screenshots/employee_management.png)
 
-- Amal Aldhafeeri
-- Huda Almokhtar
+### Invoice Generation
+![Invoice Generation](screenshots/invoice_generation.png)
+
+### Reports and Analytics
+![Reports and Analytics](screenshots/reports_analytics.png)
+
+## Repository Structure
+
+```text
+telecom-database-management-system/
+│
+├── README.md
+├── docs/
+│   └── Telecom_Project_Report.pdf
+│
+├── diagrams/
+│   └── er_diagram.png
+│
+└── screenshots/
+    ├── login.png
+    ├── customer_management.png
+    ├── employee_management.png
+    ├── invoice_generation.png
+    └── reports_analytics.png
